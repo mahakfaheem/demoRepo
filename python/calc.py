@@ -10,3 +10,7 @@ b=11
 
 s = sum(a,b)
 m = mul(a,b)
+
+
+print("sum :", s)
+print("product :", m)
